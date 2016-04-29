@@ -1,8 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title> About Bands I Like </title>
-    <meta name="description" content="music, boybands, artists">
+    <title> All About Me </title>
+    <meta name="description" content="Resume About Me">
     <meta name="author" content="Laila Sanders">
- </head>
+    <meta name="keywords" content="resume, interests, activities, future">
+  </head>
+  <body>
+    <h1> Introducing Me </h1>
+      <ul>
+        <li> My name is Laila and im 16 years old </li>
+        <li> My favorite colors are pink and purple </li>
+        <li> I'm mostly interested in the STEM related field </li>
+        <li> I really love One Direction and Zayn :) </li>
+        <li> One goal I have is to eventualyy work at Google and attend Georgia Tech </li>
+      </ul>
+  </body>
 </html>
+        
