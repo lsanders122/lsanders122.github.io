@@ -17,3 +17,6 @@ body{
 img:hover{
   opacity: 0.5;
 }
+section{
+  display: inline;
+}
